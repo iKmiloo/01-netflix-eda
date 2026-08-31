@@ -1,0 +1,18 @@
+# Dataset (descargarlo manualmente desde Kaggle)
+data/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+env/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
